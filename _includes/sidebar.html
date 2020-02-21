@@ -63,7 +63,7 @@
   </span>
   {% endif %}
 
-  <a href="https://github.com/IrsiWangHe" target="_blank">
+  <a href="https://github.com/{{ site.github.username }}" target="_blank">
     <i class="fab fa-github-alt"></i>
   </a>
   <!--
@@ -71,7 +71,7 @@
     <i class="fab fa-twitter"></i>
   </a>
   -->
-  {% assign email = wanghe@shanghaitech.edu.cn| split: '@' %}
+  {% assign email = site.social.email | split: '@' %}
   <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
     <i class="fas fa-envelope"></i>
   </a>

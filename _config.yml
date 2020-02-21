@@ -12,8 +12,8 @@ title: Iris Wang                          # the main title
 
 tagline: Optimize your life. # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-A website about my life, experience and thoughts.
+description:  A website about my life, experience and thoughts.                      # used by seo meta and the atom feed
+
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'https://iriswanghe.github.io'

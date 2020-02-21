@@ -8,4 +8,4 @@ title: About Me
 # MIT License
 ---
 
-> **Note**: CV
+> **CV**

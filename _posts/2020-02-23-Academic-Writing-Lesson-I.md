@@ -1,7 +1,7 @@
 ---
 title: Academic Writing Lesson I
 date: 2020-02-23 23:42:00 +0800
-categories: [Academic-Writing]
+categories: Academic-Writing
 tags: [academic writing]
 seo:
   date_modified: 2020-02-23 23:42:00 +0800

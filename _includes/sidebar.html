@@ -13,7 +13,7 @@
         {% assign avatar_url = site.avatar %}
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
         {% if start == '/' %}
-          {% assign avatar_url = avatar_url | prepend: site.baseurl/tabs/about%}
+          {% assign avatar_url = avatar_url | prepend: site.baseurl/tabs/about/%}
         {% endif %}
         <img src="{{ avatar_url }}" alt="avatar">
       </a>
@@ -21,7 +21,7 @@
 
     <div class="profile-text mt-3">
       <div id="site-title">
-        <a href="{{ site.baseurl }}/tabs/about">{{- site.title -}}</a>
+        <a href="{{ site.baseurl }}/tabs/about/">{{- site.title -}}</a>
       </div>
       <div id="site-subtitle" class="font-italic">{{- site.tagline -}}</div>
     </div>

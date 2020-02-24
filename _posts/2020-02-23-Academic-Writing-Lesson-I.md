@@ -10,7 +10,7 @@ seo:
 ## Words and Phrases
 
 1. Firstly First
-2. **assign $x_i$ to each node \$$i$$ =  associate $x_i$ with each node $i$**
+2. **assign $x_i$ to each node \$$i$$ = associate $x_i$ with each node $i$**
 3. condition = assumption
 4. **impose the conditions on problem**
 5. Assumption …  implies that ...

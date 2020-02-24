@@ -7,34 +7,53 @@ seo:
   date_modified: 2020-02-23 23:42:00 +0800
 ---
 
-## Words and Phrases
 
-1. Firstly First
-2. **assign $x_i$ to each node $i$ = associate $x_i$ with each node $i$**
-3. condition = assumption
-4. **impose the conditions on problem**
-5. Assumption …  implies that ...
-6. Obiviously = Apparently <u>(using less)</u>
-7. **without less of generality,** in the rest of paper we assume … 
-8. each node **executes** its () update
-9. xxx **iteratively** updates
-10. **in a computationally efficient way**
-11. the nodes are able to **jointly implement xxx in a distributed fashion**
-12. **obtain the following algorithmic form**
-13. previous = prior
-14. be referred to as
-15. be camparable to xxx(algorithm)
-16. apply … to ...
-17. such xxxx is abel to ...
-18. achieves an O(x) rate of convergence to the optimal solution.
-19. be further assumed to be + diff assumption; further impose the following assumption
-20. In addition = Furthermore = additionally=also=
-21. yet = but
-22. The entire network dynamics can thus be described by  + updates equations.
-23. efficacy, effectiveness, efficiency
-24. presents, demonstrates, manifests, illustrate, describes, shows
-25. Note that ….; Observe that …
-26. …, thus we introduce the following notations.
+
+# Words and Phrases
+
+1. **assign** $x_i$ **to** each node $i$ = **associate** $x_i$ **with** each node $i$
+
+   Obiviously = Apparently <u>(using less)</u>
+
+2. ​
+
+3. each node **executes** its () update
+
+4. xxx **iteratively** updates
+
+5. **in a computationally efficient way**
+
+6. the nodes are able to **jointly implement xxx in a distributed fashion**
+
+7. **obtain the following algorithmic form**
+
+8. previous = prior
+
+9. be referred to as
+
+10. be camparable to xxx(algorithm)
+
+11. apply … to ...
+
+12. such xxxx is abel to ...
+
+13. achieves an O(x) rate of convergence to the optimal solution.
+
+14. be further assumed to be + diff assumption; further impose the following assumption
+
+15. In addition = Furthermore = additionally=also=
+
+16. yet = but
+
+17. The entire network dynamics can thus be described by  + updates equations.
+
+18. efficacy, effectiveness, efficiency
+
+19. presents, demonstrates, manifests, illustrate, describes, shows
+
+20. Note that ….; Observe that …
+
+21. …, thus we introduce the following notations.
 
 #### Related Work:
 
@@ -54,11 +73,20 @@ seo:
 
 *The outline of the paper is as follows: Section II formulates the distributed optimization problem, and Section III describes the proposed IFDG algorithm. Section IV presents the convergence analysis, and Section V shows the simulation results. Section VI concludes the paper.*
 
-#### Problem Formualtion
+###Problem Formualtion
 
-Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E})$, where $\mathcal{V}=\{1,2,…,N\}$ , $N\ge2$ is the set of nodes and $\mathcal{E}\subseteq \{\{i,j\},i,j\in\mathcal{V}, i\ne j\}$ is the set of links.			
+Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E})$, where $\mathcal{V}=\{1,2,…,N\}$ , $N\ge2$ is the set of nodes and $\mathcal{E}\subseteq \{\{i,j\},i,j\in\mathcal{V}, i\ne j\}$ is the set of links.	
 
-#### Numerical Examples
+###Assumption:
+
+1. **condition** = assumption
+2. **impose the conditions on problem**
+3. Assumption …  **implies** that ...
+4. **without less of generality,** in the rest of paper we assume … 
+
+​		
+
+###Numerical Examples
 
 1. validate the efficiency of xxx 
 2. simulation results demonstrate that ...

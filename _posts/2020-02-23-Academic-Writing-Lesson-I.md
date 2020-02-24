@@ -39,11 +39,11 @@ seo:
 
 
 
-###Related Work:
+### Related Work:
 
 1. There have been a substantial number of …. reported in the literature, such as ….
 
-###Distributed Optimization
+### Distributed Optimization
 
 - Advantage: 
   1. have better applicablility to large-scale optimisation problems
@@ -53,15 +53,15 @@ seo:
   2. cognitive radio networks
   3. machine learning 
 
-###Outline
+### Outline
 
 *The outline of the paper is as follows: Section II formulates the distributed optimization problem, and Section III describes the proposed IFDG algorithm. Section IV presents the convergence analysis, and Section V shows the simulation results. Section VI concludes the paper.*
 
-###Problem Formualtion
+### Problem Formualtion
 
 Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E})$, where $\mathcal{V}=\{1,2,…,N\}$ , $N\ge2$ is the set of nodes and $\mathcal{E}\subseteq \{\{i,j\},i,j\in\mathcal{V}, i\ne j\}$ is the set of links.	
 
-###Assumption:
+### Assumption:
 
 1. **condition** = assumption
 2. **impose the conditions on problem**
@@ -69,7 +69,7 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
   4. **without less of generality,** in the rest of paper we assume … 
 
 
-###Numerical Examples
+### Numerical Examples
 
 1. validate the efficiency of xxx 
 
@@ -77,7 +77,7 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 
    ​
 
-#Diction
+# Diction
 
 #### Lemma & Theorem: 
 
@@ -102,7 +102,7 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 
 
 
-#Terminology
+# Terminology
 
 1. constrained optimization + (problems) 
 
@@ -112,7 +112,7 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 
    ​
 
-#Notice
+# Notice
 
 1. $Nd!=d$
 2. Heed the symbol of $\mathcal{V},\mathcal{E}$

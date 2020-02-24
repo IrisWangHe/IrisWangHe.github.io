@@ -21,6 +21,8 @@ seo:
 
 
 
+
+
 1. each node **executes** its () update
 2. xxx **iteratively** updates
 3. **in a computationally efficient way**
@@ -64,7 +66,7 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 1. **condition** = assumption
 2. **impose the conditions on problem**
 3. Assumption …  **implies** that ...
-4. **without less of generality,** in the rest of paper we assume … 	
+  4. **without less of generality,** in the rest of paper we assume … 
 
 
 ###Numerical Examples
@@ -115,5 +117,35 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 1. $Nd!=d$
 2. Heed the symbol of $\mathcal{V},\mathcal{E}$
 
+
+
+
+# Latex
+
+1. Section label: Use **\label{sec: probform}** instead of \label{section2}.
+
+2. Lemma/Theorem label: Use **\label{lem:xxx}, \label{the:xxx}**. *xxx is the description of the corresponding theorem or lemma.*
+
+3. Equation:
+
+   1. Add **a space** (usually use big space: \quad, sometimes: \;) before **\forall**
+   2. **…**：
+      1. **\ldots**; (x_1, \ldots, x_N)
+      2. **\cots**: x_1=\cdots=x_N
+   3. *only referenced equation needs number*; use **\nonumber** to remove the equation number
+   4. $a^{1/2}$ -> $a^{\frac{1}{2}}$
+   5. The difference between \begin{align}, \begin{align*}, \begin{aligned}.
+
+4. In-text Equation:
+
+   1. No need to add ',' before **\forall**. A regular space is enough.
+
+5. Notation:
+
+   1. *One notation represents one thing.*
+
+   2. Mark the size of all zero vector, all one vector, zero matrix and identity matrix: $\mathbf{0}_d, \mathbf{1}_d,I_{d},O_{d}$.
+
+      ​
 
 

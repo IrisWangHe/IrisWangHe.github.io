@@ -21,7 +21,7 @@ My research interests lie in **optimization, machine learning, and algorithmic g
 | Sep 2019 - Current  | M.S. Candidate in *Communication and Information System* in **ShanghaiTech University**, Shanghai |
 | Sep 2015 - Jun 2019 | B.E. Computer Science in **ShanghaiTech University**, Shanghai |
 
-####Others:
+#### Others:
 
 - June2018 - June 2018  2018 IEEE ComSoc Summer School on "Fog Computing" 
 - July 2017- Aug 2017  Summer school in UC Berkeley University, California
@@ -72,7 +72,7 @@ My research interests lie in **optimization, machine learning, and algorithmic g
 
 ### Skills
 
-Programming Languages: Python, C, MATLAB, HTML
+**Programming Languages**: 	Python, C, MATLAB, HTML
 
-Others: Git, Linux, Office, Keynote, $\LaTeX$, Jekyll
+**Others**: 						Git, Linux, Office, Keynote, $\LaTeX$, Jekyll
 

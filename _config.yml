@@ -84,7 +84,7 @@ toc: true
 
 paginate: 10
 
-markdown: commonmark
+markdown: kramdown
 
 highlighter: rouge
 

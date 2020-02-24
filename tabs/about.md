@@ -57,14 +57,15 @@ My research interests lie in **optimization, machine learning, and algorithmic g
 
 ### Awards
 
-| Time      | Award                                |
-| --------- | ------------------------------------ |
-| June 2019 | Outstanding Graduate Honor           |
-| Dec 2018  | Outstanding Student Honor            |
-| Dec 2018  | Scholarship of Academic Excellence   |
-| Dec 2017  | Merit Student Honor                  |
-| Dec 2016  | Outstanding Student Honor            |
-| Oct 2016  | Advanced individual in "Zhixing Cup" |
+| Time      | Award                                    |
+| --------- | ---------------------------------------- |
+| Dec 2019  | Scholarship for Further Education and Innovation |
+| June 2019 | Outstanding Graduate Honor               |
+| Dec 2018  | Outstanding Student Honor                |
+| Dec 2018  | Scholarship of Academic Excellence       |
+| Dec 2017  | Merit Student Honor                      |
+| Dec 2016  | Outstanding Student Honor                |
+| Oct 2016  | Advanced individual in "Zhixing Cup"     |
 
 
 

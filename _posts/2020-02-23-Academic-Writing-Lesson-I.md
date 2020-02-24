@@ -12,54 +12,36 @@ seo:
 # Words and Phrases
 
 1. **assign** $x_i$ **to** each node $i$ = **associate** $x_i$ **with** each node $i$
+2. Obiviously = Apparently <u>(using less)</u>
+3. previous : prior
+4. In addition = Furthermore = additionally=also=
+5. efficacy, effectiveness, efficiency
+6. presents, demonstrates, manifests, illustrate, describes, shows
+7. Note that ….; Observe that …
 
-   Obiviously = Apparently <u>(using less)</u>
 
-2. ​
 
-3. each node **executes** its () update
+1. each node **executes** its () update
+2. xxx **iteratively** updates
+3. **in a computationally efficient way**
+4. the nodes are able to **jointly implement xxx in a distributed fashion**
+5. **obtain the following algorithmic form**
+6. be referred to as
+7. be camparable to xxx(algorithm)
+8. apply … to ...
+9. such xxxx is abel to ...
+10. achieves an O(x) rate of convergence to the optimal solution.
+11. be further assumed to be + diff assumption; further impose the following assumption
+12. The entire network dynamics can thus be described by  + updates equations.
+13. …, thus we introduce the following notations.
 
-4. xxx **iteratively** updates
 
-5. **in a computationally efficient way**
 
-6. the nodes are able to **jointly implement xxx in a distributed fashion**
-
-7. **obtain the following algorithmic form**
-
-8. previous = prior
-
-9. be referred to as
-
-10. be camparable to xxx(algorithm)
-
-11. apply … to ...
-
-12. such xxxx is abel to ...
-
-13. achieves an O(x) rate of convergence to the optimal solution.
-
-14. be further assumed to be + diff assumption; further impose the following assumption
-
-15. In addition = Furthermore = additionally=also=
-
-16. yet = but
-
-17. The entire network dynamics can thus be described by  + updates equations.
-
-18. efficacy, effectiveness, efficiency
-
-19. presents, demonstrates, manifests, illustrate, describes, shows
-
-20. Note that ….; Observe that …
-
-21. …, thus we introduce the following notations.
-
-#### Related Work:
+###Related Work:
 
 1. There have been a substantial number of …. reported in the literature, such as ….
 
-#### Distributed Optimization
+###Distributed Optimization
 
 - Advantage: 
   1. have better applicablility to large-scale optimisation problems
@@ -69,7 +51,7 @@ seo:
   2. cognitive radio networks
   3. machine learning 
 
-#### Outline
+###Outline
 
 *The outline of the paper is as follows: Section II formulates the distributed optimization problem, and Section III describes the proposed IFDG algorithm. Section IV presents the convergence analysis, and Section V shows the simulation results. Section VI concludes the paper.*
 
@@ -82,17 +64,18 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 1. **condition** = assumption
 2. **impose the conditions on problem**
 3. Assumption …  **implies** that ...
-4. **without less of generality,** in the rest of paper we assume … 
+4. **without less of generality,** in the rest of paper we assume … 	
 
-​		
 
 ###Numerical Examples
 
 1. validate the efficiency of xxx 
-2. simulation results demonstrate that ...
-3. ​
 
-## Diction
+2. simulation results demonstrate that ...
+
+   ​
+
+#Diction
 
 #### Lemma & Theorem: 
 
@@ -116,7 +99,8 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 
 
 
-## Terminology
+
+#Terminology
 
 1. constrained optimization + (problems) 
 
@@ -126,96 +110,10 @@ Consider an undirected and connected graph $\mathcal{G}=(\mathcal{V},\mathcal{E}
 
    ​
 
-## Latex
-
-1. Section label: Use **\label{sec: probform}** instead of \label{section2}.
-
-2. Lemma/Theorem label: Use **\label{lem:xxx}, \label{the:xxx}**. *xxx is the description of the corresponding theorem or lemma.*
-
-3. Equation:
-
-   1. Add **a space** (usually use big space: \quad, sometimes: \;) before **\forall**
-   2. **…**：
-      1. **\ldots**; (x_1, \ldots, x_N)
-      2. **\cots**: x_1=\cdots=x_N
-   3. *only referenced equation needs number*; use **\nonumber** to remove the equation number
-   4. $a^{1/2}$ -> $a^{\frac{1}{2}}$
-   5. The difference between \begin{align}, \begin{align*}, \begin{aligned}.
-
-4. In-text Equation:
-
-   1. No need to add ',' before **\forall**. A regular space is enough.
-
-5. Notation:
-
-   1. *One notation represents one thing.*
-
-   2. Mark the size of all zero vector, all one vector, zero matrix and identity matrix: $\mathbf{0}_d, \mathbf{1}_d,I_{d},O_{d}$.
-
-      ​
-
-## Notice
+#Notice
 
 1. $Nd!=d$
 2. Heed the symbol of $\mathcal{V},\mathcal{E}$
-
-
-
-## How to double check your paper?
-
-- Step 1: Check each sentences, equations carefully. 
-  - Forget all your previous impression.
-  - Check technical parts again.
-  - All the notation need to be defined clearly.
-  - The smoothness and logic of your sencenteces.
-- Step 2: Check the logic of paper.
-  - The arrangement of all sections.
-  - The connection between the sections.
-- Step 3: Check the gramma.
-- Step 4: Check the punctuations.
-
-
-
-## How to write label?
-
-#### Section:
-
-- \label{sec:intro}
-- \label{sec:{+algorithm name}}
-- \label{sec: concl}
-
-#### Equation
-
-- \label{eq:{+the core of the equation}}: \label{eq:xh=sumcxsumc}
-
-#### Lemma
-
-- \label{lem:{+the core of the lemma}}: \label{lem:RHAVnonincr}
-
-#### Theorem: 
-
-- \label{the:{the core of the theorem}}: \label{thm:ICHAexpconvgene}
-
-#### Corollary 
-
-- \label{cor:{the core of the corollary}}: \label{cor:ICHAexpconvgene}
-
-#### Enumerate
-
-- \label{enu:{the core of the item}}: \label{enu:genepath}
-
-#### Figure
-
-- \label{fig:{same as the figure name}}: \label{fig:gammagamma_N}
-
-#### Remark
-
-- \label{rem:{the core of the remark}}:\label{rem:clocoffs}
-
-#### Citation
-
-- label -> ~\ref
-- \cite{name+year}: \cite{Tsitsiklis84}. Correspondingly modify the ".bib".
 
 
 

@@ -8,7 +8,6 @@ seo:
 ---
 
 
-
 # Words and Phrases
 
 1. **assign** $x_i$ **to** each node $i$ = **associate** $x_i$ **with** each node $i$

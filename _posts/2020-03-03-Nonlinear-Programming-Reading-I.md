@@ -8,7 +8,7 @@ seo:
 ---
 
 
-###Model of optimization = Cost funtion $f$ + Constraint set $X$
+### Model of optimization = Cost funtion $f$ + Constraint set $X$
 
 1. Cost function:
 
@@ -20,9 +20,6 @@ seo:
    1. Decision $ x$: n tuple of real numbers $(x_1,\ldots,x_n)$.
 
    ​
-
-```
 <div class="text-blue mb-2">
   .text-blue on white
 </div>
-```
